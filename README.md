@@ -33,7 +33,6 @@ This is a learning project built with **Node.js** to understand the basics of:
 - **Product Page**: Displays details of a selected product.
 - **API Endpoint**: Returns raw JSON data.
 - **404 Page**: Custom error page for invalid routes.
-- **Slugify**: Generates URL-friendly slugs for product names.
 
 ---
 
